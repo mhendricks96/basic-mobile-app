@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Rachel",
+    "email": "rachel@whatever.com",
+    "note": "party pooper"
+  },
+  {
+    "name": "Lexi",
+    "email": "Lexi@whatever.com",
+    "note": "something sometimes"
+  },
+  {
+    "name": "Lindsey",
+    "email": "Lindsey@whatever.com",
+    "note": "feugiat nec, diam. Duis"
+  },
+  {
+    "name": "Tori",
+    "email": "Tori@whatever.com",
+    "note": "sit amet diam eu dolor"
+  },
+  {
+    "name": "Lucas",
+    "email": "Lucas@whatever.com",
+    "note": "sociis natoque penatibus et"
+  }
+]
